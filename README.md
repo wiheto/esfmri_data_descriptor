@@ -9,6 +9,6 @@ Sturcture of repo:
 
 - __./fmriprep__ for how the fmriprep code was executed. The ouput of this is also available with the dataset on openneuro. 
 
-- __./MRIQC__ for how the MRIQC analyses/comparisons were performed. 
+- __./mriqc_evaluation__ for how the MRIQC analyses/comparisons were performed. 
 
 - __./confound_pre_vs_post__ for how the comparisons of confounds pre and post-op.
